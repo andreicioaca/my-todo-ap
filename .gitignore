@@ -1,3 +1,2 @@
-venv
-.idea
-pyvenv.cfg
+# created by virtualenv automatically
+*
